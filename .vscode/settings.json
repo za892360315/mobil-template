@@ -1,8 +1,0 @@
-{
-  "editor.codeActionsOnSave": {
-    "source.fixAll":"always"
-  },
-  "files.eol": "\n",
-  "editor.tabSize": 4,
-  "liveServer.settings.AdvanceCustomBrowserCmdLine": ""
-}
