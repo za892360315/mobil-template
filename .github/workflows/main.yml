@@ -1,4 +1,4 @@
-name: deploy
+name: main
 on:
   push:
     branches: [main] # main 分支有 push 时触发
